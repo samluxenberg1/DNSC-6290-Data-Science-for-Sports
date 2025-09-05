@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+tmp/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Environment variables
+.env
+**/.DS_Store
+.DS_Store
+.RData
+.Rhistory
